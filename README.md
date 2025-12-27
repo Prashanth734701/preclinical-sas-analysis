@@ -110,7 +110,7 @@ preclinical-sas-analysis/
 
 ## 👨‍💻 Author
 **PRASHANTH.E**  
-B.PHARMA ,MSC-BIOINFIRMATIC
+B.PHARMA ,MSC-BIOINFORMATICS
 prashantheprashanth584@gmail.com
   
 
